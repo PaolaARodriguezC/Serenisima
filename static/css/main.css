@@ -1,0 +1,115 @@
+.fondos{
+    background-color: #f2f2f2;
+}
+
+.logo img{ 
+    width: 15%;
+}
+
+.fondo {
+    background-color: #18343f;
+   border: #18343f;
+   color: white;
+}
+.titulo{
+    margin-bottom:70px;
+}
+.form-label{
+    font-size: 14px;
+}
+
+ button{
+     margin: 0 auto;
+ }
+.btn {
+   background-color: #e28063;
+   border: #e28063;
+   font-weight: 500;
+   width: 80%;
+   border-radius: 15px;
+   
+}
+
+.txt{
+text-align: center;
+}
+.txt a{
+   font-size: 12px;
+   color: white;
+   
+}
+.d-grid{
+   margin-top: 100px;
+}
+.linea{
+    outline: red;
+}
+
+
+.copy{
+    height: 50px;
+    background-color: #18343f;
+}
+.copy p{
+    text-align: center;
+    color:white;
+    
+}
+
+.tit{
+    text-align: center;
+    color: #18343f;
+    font-weight:700  ;
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+hr{
+    background-color: #e28063;
+   
+   border-width: 10px;
+   color:#e28063;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.form-label{
+    font-size: 16px;
+    font-weight:600;
+}
+.formulario-text::placeholder{
+
+color: #e28063;
+
+}
+select::placeholder{
+    color: #e28063;
+}
+.perfil p{
+    color: #e28063;
+    font-weight: 400;
+    margin: 10px 10px;
+    font-size: 14px;
+}
+.form-control, .form-select{
+    border-color: #e28063;
+}
+
+button .form-search {
+    width: 20px;
+}
+.list-group-item {
+    color: #e28063;
+    padding: 30px;
+    
+}
+.list-group-item span{
+  
+    margin-left: 100%;
+    
+  
+}
+.guardar{
+    margin-left: 76%;
+    width: 30%;
+}
